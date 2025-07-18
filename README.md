@@ -32,13 +32,8 @@ Ensure that you have already installed:
 
 ## Steps to Run the Project  
 
-1. **Download this project:**  
 
-   ```bash  
-   git clone https://github.com/EkiZR/Portofolio_V5.git  
-   ```  
-
-2. **Install all dependencies:**  
+1. **Install all dependencies:**  
 
    ```bash  
    npm install  
@@ -49,13 +44,13 @@ Ensure that you have already installed:
    npm install --legacy-peer-deps  
    ```  
 
-3. **Run the project:**  
+2. **Run the project:**  
 
    ```bash  
    npm run dev  
    ```  
 
-4. **Open in browser:**  
+3. **Open in browser:**  
 
    Access the application through the link displayed in your terminal.  
 
