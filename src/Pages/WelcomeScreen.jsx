@@ -90,7 +90,7 @@ const WelcomeScreen = ({ onLoadingComplete }) => {
               {/* Website Link with Typewriter */}
               <div className="text-center" data-aos="fade-up" data-aos-delay="400">
                 <a
-                  href="https://yourwebsite.com" 
+                  href="https://hritikjaiswal-portfolio.vercel.app" 
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-6 py-3 rounded-full group hover:scale-105 transition-transform relative"
