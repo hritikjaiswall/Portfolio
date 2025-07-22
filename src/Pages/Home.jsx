@@ -80,11 +80,11 @@ const SocialLink = memo(({ icon: Icon, link }) => (
 ));
 
 const WORDS = ["React Developer", "Automation Enthusiast", "Creative Coder"];
-const TECH_STACK = ["React", "Vue", "Node.js", "Tailwind", "JavaScript"];
+const TECH_STACK = ["React", "Node.js", "Tailwind", "JavaScript"];
 const SOCIAL_LINKS = [
-  { icon: Github, link: "https://github.com/hritik111" },
-  { icon: Linkedin, link: "https://www.linkedin.com/in/hritikjaiswal111/" },
-  { icon: Instagram, link: "https://www.instagram.com/yourprofile/" },
+  { icon: Github, link: "https://github.com/hritikjaiswall" },
+  { icon: Linkedin, link: "https://www.linkedin.com/in/hritikjaiswall/" },
+  { icon: Instagram, link: "https://www.instagram.com/hritikjaiswall/" },
 ];
 
 const Home = () => {
