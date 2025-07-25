@@ -104,6 +104,4 @@ To configure Firebase for this project, follow these steps:
    ![Collection Structure Example 2](https://github.com/user-attachments/assets/d563d7ad-f1ab-46ff-8185-640dcebd0363)  
 
 6. **Update `firebase.js` and `firebase-comment.js` Files:**  
-   - Replace the `firebaseConfig` content with your Firebase configuration.
-
-
+   - Replace the `firebaseConfig` content with your Firebase configuration
